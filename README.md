@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cryptofaiz720
 - 👀 I’m interested in websites and web application's
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on beginners python projects 
+- 🌱 I’m currently learning github and programming in c++ 
+- 💞️ I’m looking to collaborate on beginners C++ projects which could teach me how to code 
 - 📫 How to reach me this is my mail kingfaiz331952002@gmail.com you can contact me thorugh this 
 
 <!---
